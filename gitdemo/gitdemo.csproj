@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\RandomFolder\" />
+    <Folder Include="Models\RandomFolder1\" />
   </ItemGroup>
 
 </Project>

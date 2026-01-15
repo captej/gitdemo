@@ -12,6 +12,7 @@ namespace gitdemo
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
+            //done changesS
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
